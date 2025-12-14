@@ -86,11 +86,11 @@ to **responsive and intuitive frontends**.
   <img src="https://github-readme-stats.vercel.app/api?username=yamanvermav20&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=yamanvermav20&theme=tokyonight&hide_border=true"
   />
-</p>
+</p> -->
 
 ## 🤝 Let’s Connect  
 
