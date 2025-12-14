@@ -87,7 +87,9 @@ to **responsive and intuitive frontends**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanvermav20&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=yamanvermav20&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ## 🤝 Let’s Connect  
