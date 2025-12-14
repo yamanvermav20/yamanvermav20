@@ -1,122 +1,93 @@
 👋 Hi, I’m Yaman Verma
-
 🚀 Aspiring Software Engineer | Full-Stack Developer
-🎓 Computer Science Student
-💻 Passionate about building scalable, secure, and user-centric web applications
+<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://leetcode.com/YOUR_LEETCODE"> <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" /> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </p>
+🧠 About Me
 
-I enjoy solving real-world problems using clean architecture, strong fundamentals, and modern tech stacks.
-Currently focused on full-stack development, system-oriented thinking, and interview preparation.
+💡 Computer Science student passionate about building scalable full-stack applications and solving real-world problems.
+I focus on clean architecture, secure systems, and performance-driven development.
+
+🎯 Goal: Become a skilled Software Engineer contributing to impactful products.
 
 🛠️ Tech Stack
-Programming Languages
+👨‍💻 Languages
 
-Java, C++, C
 
-JavaScript, Python
 
-Libraries & Frameworks
 
-React.js, Node.js, Express.js
 
-Spring Boot
 
-Tailwind CSS
 
-Databases
 
-MongoDB
 
-PostgreSQL
 
-MySQL
+⚙️ Frameworks & Libraries
 
-Redis
 
-Tools & Platforms
 
-Git, GitHub, Linux
 
-AWS
 
-Postman
 
-Cloudinary
+
+
+
+
+🗄️ Databases & Cache
+
+
+
+
+
+
+
+
+🧰 Tools & Platforms
+
+
+
+
+
+
+
+
+
 
 🚀 Featured Projects
 🌍 WanderMind – Smart Travel & Safety Platform
 
 🔗 [Project Link]
 
-Tech Stack: React, Node.js, Express.js, MongoDB, Socket.io, Redis, Tailwind CSS
+⭐ Full-stack MERN application for safe & intelligent travel planning
 
-Designed and developed a full-stack MERN application to help travelers plan safe and efficient trips
+Smart itinerary generator (no AI dependency)
 
-Built modules for city insights, live weather updates, and searchable attractions using public APIs
+Real-time SOS alerts using WebSockets + Redis
 
-Implemented a smart itinerary generator that creates structured, day-wise plans (without AI dependencies)
+Admin dashboard with live notifications
 
-Developed an SOS safety system using WebSockets + Redis for real-time emergency alerts
-
-Built an admin dashboard showing instant notifications and tourist location details
-
-Integrated secure authentication using JWT + bcrypt
-
-Delivered a clean, responsive UI with React and Tailwind CSS
+Secure authentication (JWT + bcrypt)
 
 🎓 College Event Management System
 
 🔗 [Project Link]
 
-Tech Stack: React, Spring Boot, MySQL, Hibernate (JPA)
+⭐ Role-based event platform using Spring Boot + React
 
-Built a production-ready event management platform for college use
+Admin & Student access control
 
-Implemented role-based access control (Admin / Student) with JWT authentication
+REST APIs with JWT authentication
 
-Designed a Spring Boot backend exposing REST APIs
+MySQL + Hibernate integration
 
-Integrated MySQL with JPA/Hibernate for event and registration management
+Protected routes and form validation
 
-Developed a React frontend with form validation and protected routes
+📊 GitHub Stats (optional but attractive)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" /> </p>
+🤝 Let’s Connect
 
-Ensured seamless client-server communication using Axios
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
-Followed clean, modular architecture for maintainability and scalability
+💻 LeetCode: https://leetcode.com/YOUR_LEETCODE
 
-🎯 What I’m Currently Focusing On
+📧 Email: YOUR_EMAIL@gmail.com
 
-Strengthening DSA & problem-solving
-
-Writing clean, maintainable backend code
-
-Improving system design & real-world application architecture
-
-Preparing for Software Engineer roles & internships
-
-📈 Coding Profiles
-
-💻 LeetCode: [Add your LeetCode link here]
-
-🔗 LinkedIn: [Add your LinkedIn link here]
-
-📫 Let’s Connect
-
-📧 Email: [your email]
-
-🌐 Open to internships, placements, and collaborative projects
-
-⭐ Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas!
-<!--
-**yamanvermav20/yamanvermav20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ If you like my work, consider starring ⭐ my repositories!
