@@ -54,7 +54,7 @@ to **responsive and intuitive frontends**.
 ## 🚀 Featured Projects  
 
 ### 🌍 WanderMind – Smart Travel & Safety Platform  
-🔗 **Live / Repo Link:** *Add here*  
+🔗 **Live / Repo Link:** *https://github.com/yamanvermav20/Wandermind_Travel_Planner.git*  
 
 🧠 A **full-stack MERN application** designed to help travelers plan **safe and efficient trips**.
 
@@ -68,7 +68,7 @@ to **responsive and intuitive frontends**.
 ---
 
 ### 🎓 College Event Management System  
-🔗 **Live / Repo Link:** *Add here*  
+🔗 **Live / Repo Link:** *https://github.com/yamanvermav20/Spring-Boot-Project-College-Event-Management-System.git*  
 
 🛠️ A **production-ready event management platform** for colleges.
 
