@@ -82,9 +82,9 @@ to **responsive and intuitive frontends**.
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yamanvermav20&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img
@@ -96,6 +96,5 @@ to **responsive and intuitive frontends**.
 
 - 💼 LinkedIn: https://linkedin.com/in/yaman-verma-v20  
 - 💻 LeetCode: https://leetcode.com/yaman_v20  
-- 📧 Email: yamanverma083@gmail.com  
 
 ⭐ If you like my work, consider starring ⭐ my repositories!
