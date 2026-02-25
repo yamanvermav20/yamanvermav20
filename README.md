@@ -225,8 +225,6 @@ fun_fact: "I debug with console.log and I'm proud of it 🔥"
   </picture>
 </p>
 
-> 📝 **Note:** To enable the snake animation, add a GitHub Action workflow to your profile repo. See [this guide](https://github.com/Platane/snk) for setup instructions.
-
 ---
 
 ## 💡 Random Dev Quote
