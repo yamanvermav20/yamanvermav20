@@ -1,100 +1,266 @@
-<h1 align="center">Hi 👋, I'm Yaman Verma</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yaman%20Verma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20tomorrow's%20software%20today&descSize=18&descAlignY=55"/>
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%7C+System+Designer;Crafting+Scalable+%26+Secure+Applications;Turning+Coffee+into+Production+Code+%E2%98%95" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social Badges with Animated Hover Effect -->
 <p align="center">
   <a href="https://linkedin.com/in/yaman-verma-v20">
-    <img src="https://img.shields.io/badge/LinkedIn-Yaman%20Verma-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-Yaman%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yaman_v20/YOUR_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/yaman_v20">
+    <img src="https://img.shields.io/badge/-yaman__v20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:yamanverma083@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/-yamanverma083-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yamanvermav20">
+    <img src="https://img.shields.io/badge/-yamanvermav20-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yamanvermav20&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=yamanvermav20&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/yamanvermav20?label=Followers&style=for-the-badge&color=6C63FF" />
 </p>
-
-
-## 🧠 About Me  
-
-💻 Computer Science student and **full-stack developer** with a strong interest in building  
-**scalable, secure, and real-world applications**.
-
-🚀 I enjoy working across the stack — from **clean backend architectures**  
-to **responsive and intuitive frontends**.
-
-🎯 **Career Goal:** To grow as a **Software Engineer** and contribute to impactful, production-grade systems.
-
-
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,python" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind" />
-</p>
-
-### 🗄️ Databases & Cache
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,postman" />
-</p>
-
-## 🚀 Featured Projects  
-
-### 🌍 WanderMind – Smart Travel & Safety Platform  
-🔗 **Live / Repo Link:** *https://github.com/yamanvermav20/Wandermind_Travel_Planner.git*  
-
-🧠 A **full-stack MERN application** designed to help travelers plan **safe and efficient trips**.
-
-✨ Highlights:
-- Smart **day-wise itinerary generator** (no AI dependency)
-- **Real-time SOS alerts** using WebSockets & Redis
-- Admin dashboard with **live notifications**
-- Secure authentication with **JWT + bcrypt**
-- Clean, responsive UI using **React + Tailwind CSS**
 
 ---
 
-### 🎓 College Event Management System  
-🔗 **Live / Repo Link:** *https://github.com/yamanvermav20/Spring-Boot-Project-College-Event-Management-System.git*  
+<!-- About Me Section with Side Image -->
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-🛠️ A **production-ready event management platform** for colleges.
+## ⚡ Quick Facts
 
-✨ Highlights:
-- Role-based access (**Admin / Student**)
-- Secure **JWT-based authentication**
-- REST APIs using **Spring Boot**
-- MySQL integration with **JPA / Hibernate**
-- Protected routes & form validation in React
+```yaml
+name: Yaman Verma
+located_in: India
+current_role: Computer Science Student
+education:
+  - "B.Tech in Computer Science"
+  
+fields_of_interest:
+  - "Full-Stack Development"
+  - "System Design"
+  - "Cloud Architecture"
+  - "Real-Time Applications"
+  
+currently_building: "Scalable microservices & real-time systems"
+2026_goals: 
+  - "Contribute to Open Source"
+  - "Master System Design"
+  - "Cloud Certifications"
 
+fun_fact: "I debug with console.log and I'm proud of it 🔥"
+```
 
-## 📊 GitHub Stats  
+<br clear="right"/>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamanvermav20&show_icons=true&theme=tokyonight" />
-</p> -->
+---
 
-<!-- <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=yamanvermav20&theme=tokyonight&hide_border=true"
-  />
-</p> -->
+## 🎯 What I Bring to the Table
 
-## 🤝 Let’s Connect  
+<table>
+<tr>
+<td width="50%">
 
-- 💼 LinkedIn: https://linkedin.com/in/yaman-verma-v20  
-- 💻 LeetCode: https://leetcode.com/yaman_v20  
+### 🏗️ Architecture Mindset
+> I don't just write code — I design systems. Every project starts with understanding the **why** before the **how**.
 
-⭐ If you like my work, consider starring ⭐ my repositories!
+</td>
+<td width="50%">
+
+### ⚡ Full-Stack Fluency
+> Comfortable jumping between **React frontends** and **Spring Boot backends** — bridging the gap between user experience and server logic.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 Security-First Thinking
+> Authentication, authorization, input validation — security isn't an afterthought, it's baked into every line of code.
+
+</td>
+<td width="50%">
+
+### 📈 Production-Ready Code
+> Clean commits, meaningful PRs, proper error handling — my code is ready for teams, not just toy projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Languages**
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,python&perline=2" />
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=2" />
+
+</td>
+<td align="center" width="25%">
+
+**Backend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,redis&perline=2" />
+
+</td>
+<td align="center" width="25%">
+
+**Database & Cloud**
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws&perline=2" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔧 Full Tech Stack (Click to Expand)</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java, C++, C, JavaScript, Python, SQL |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, Spring Boot, REST APIs |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
+| **DevOps & Tools** | Git, GitHub, Docker, Linux, AWS, Postman |
+| **Concepts** | OOP, System Design, Data Structures, Algorithms |
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 WanderMind
+**Smart Travel & Safety Platform**
+
+<a href="https://github.com/yamanvermav20/Wandermind_Travel_Planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yamanvermav20&repo=Wandermind_Travel_Planner&theme=tokyonight&hide_border=true" />
+</a>
+
+**Tech:** `React` `Node.js` `MongoDB` `Redis` `WebSockets`
+
+🔹 Intelligent day-wise itinerary generation  
+🔹 Real-time SOS alerts with WebSocket integration  
+🔹 Admin dashboard with live notification system  
+🔹 JWT authentication with bcrypt encryption
+
+</td>
+<td width="50%">
+
+### 🎓 Event Management System  
+**College-Level Production Platform**
+
+<a href="https://github.com/yamanvermav20/Spring-Boot-Project-College-Event-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yamanvermav20&repo=Spring-Boot-Project-College-Event-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+**Tech:** `Spring Boot` `React` `MySQL` `JWT`
+
+🔹 Role-based access control (Admin/Student)  
+🔹 Secure REST API architecture  
+🔹 JPA/Hibernate for database operations  
+🔹 Protected routes & form validation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yamanvermav20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yamanvermav20&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanvermav20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yamanvermav20&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanvermav20&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamanvermav20/yamanvermav20/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamanvermav20/yamanvermav20/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yamanvermav20/yamanvermav20/output/github-snake.svg" />
+  </picture>
+</p>
+
+> 📝 **Note:** To enable the snake animation, add a GitHub Action workflow to your profile repo. See [this guide](https://github.com/Platane/snk) for setup instructions.
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yaman-verma-v20">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yamanverma083@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/yaman_v20">
+    <img src="https://img.shields.io/badge/Challenge_Me-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💬 Open to collaborations, freelance projects, and full-time opportunities!</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
