@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%7C+System+Designer;Crafting+Scalable+%26+Secure+Applications;Turning+Coffee+into+Production+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full-Stack+Developer;System+Designer;Backend+Engineer;Building+Scalable+Applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 ---
 
 <!-- About Me Section with Side Image -->
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## ⚡ Quick Facts
 
@@ -50,12 +50,12 @@ fields_of_interest:
   - "Real-Time Applications"
   
 currently_building: "Scalable microservices & real-time systems"
-2026_goals: 
+goals: 
   - "Contribute to Open Source"
   - "Master System Design"
-  - "Cloud Certifications"
+  - "Build Production-Grade Systems"
 
-fun_fact: "I debug with console.log and I'm proud of it 🔥"
+hobbies: "Problem Solving | Learning New Tech | Open Source"
 ```
 
 <br clear="right"/>
@@ -158,10 +158,6 @@ fun_fact: "I debug with console.log and I'm proud of it 🔥"
 ### 🌍 WanderMind
 **Smart Travel & Safety Platform**
 
-<a href="https://github.com/yamanvermav20/Wandermind_Travel_Planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yamanvermav20&repo=Wandermind_Travel_Planner&theme=tokyonight&hide_border=true" />
-</a>
-
 **Tech:** `React` `Node.js` `MongoDB` `Redis` `WebSockets`
 
 🔹 Intelligent day-wise itinerary generation  
@@ -175,9 +171,6 @@ fun_fact: "I debug with console.log and I'm proud of it 🔥"
 ### 🎓 Event Management System  
 **College-Level Production Platform**
 
-<a href="https://github.com/yamanvermav20/Spring-Boot-Project-College-Event-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yamanvermav20&repo=Spring-Boot-Project-College-Event-Management-System&theme=tokyonight&hide_border=true" />
-</a>
 
 **Tech:** `Spring Boot` `React` `MySQL` `JWT`
 
@@ -195,18 +188,10 @@ fun_fact: "I debug with console.log and I'm proud of it 🔥"
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yamanvermav20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yamanvermav20&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=yamanvermav20&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanvermav20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yamanvermav20&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
