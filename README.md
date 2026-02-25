@@ -32,9 +32,9 @@
 ---
 
 <!-- About Me Section with Side Image -->
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## ⚡ Quick Facts
+
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name: Yaman Verma
