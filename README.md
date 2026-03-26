@@ -168,7 +168,7 @@ hobbies: "Problem Solving | Learning New Tech | Open Source"
 </td>
 <td width="50%">
 
-### 🎓 Event Management System  
+### 🎓 College Event Management System  
 **College-Level Production Platform**
 
 
